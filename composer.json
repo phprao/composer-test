@@ -4,5 +4,10 @@
     "type": "composer-plugin",
     "require": {
         "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "phprao\\composer-test\\": "src/"
+        }
     }
 }
