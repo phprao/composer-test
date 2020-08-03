@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "phprao\\composer-test\\": "src/"
+            "Phprao\\ComposerTest\\": "src/"
         }
     }
 }

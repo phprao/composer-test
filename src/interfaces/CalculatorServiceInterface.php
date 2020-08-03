@@ -1,6 +1,6 @@
 <?php
 
-namespace phprao\composer-test\interfaces;
+namespace Phprao\ComposerTest\Interfaces;
 
 
 interface CalculatorServiceInterface
