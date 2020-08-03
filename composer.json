@@ -1,7 +1,7 @@
 {
     "name": "phprao/composer-test",
     "description": "composer-test",
-    "type": "composer-plugin",
+    "license": "MIT",
     "require": {
         "php": ">=7.2"
     },
