@@ -1,0 +1,8 @@
+{
+    "name": "phprao/composer-test",
+    "description": "composer-test",
+    "type": "composer-plugin",
+    "require": {
+        "php": ">=7.2"
+    }
+}
